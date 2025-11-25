@@ -1,8 +1,3 @@
-Here is a **clean, professional, and beginner-friendly README.md** for your *Lung Cancer Detection using CNN* project — perfect for putting on GitHub.
-
-You can copy–paste this entire block into your **README.md** file.
-
----
 
 # Lung Cancer Detection Using Convolutional Neural Network (CNN)
 
